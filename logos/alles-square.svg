@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300" height="300" viewBox="0 0 300 300" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(1.93 0 0 1.93 149.69 149.81)" id="Camada_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,21,96); fill-rule: nonzero; opacity: 1;"  transform=" translate(-185.63, -117.79)" d="M 193.06 59.73 c 29.92 0 44.88 16.8 44.88 50.41 v 64.02 h -32.75 l -1.06 -8.51 c -10.07 6.8 -21.55 10.21 -34.45 10.21 c -11.06 0 -19.89 -2.84 -26.48 -8.51 c -6.59 -5.67 -9.89 -13.4 -9.89 -23.18 c 0 -11.34 5.39 -20.21 16.16 -26.59 c 10.77 -6.38 25.66 -9.57 44.66 -9.57 c 4.11 0 6.66 0.07 7.66 0.21 c -0.14 -7.09 -1.56 -12.16 -4.25 -15.21 c -2.69 -3.05 -7.02 -4.57 -12.97 -4.57 c -10.07 0 -22.12 2.48 -36.16 7.44 l -11.06 -24.25 C 156.91 63.7 175.48 59.73 193.06 59.73 z M 167.75 142.46 c 0 2.41 1.1 4.36 3.3 5.85 c 2.2 1.49 5.28 2.23 9.25 2.23 c 8.08 0 15.24 -2.05 21.48 -6.17 v -13.82 h -5.96 C 177.11 130.55 167.75 134.52 167.75 142.46 z" stroke-linecap="round" />
+</g>
+</svg>
